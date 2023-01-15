@@ -1,0 +1,92 @@
+2022-10-17 18:09:24,453 [main] INFO eCommerce - URL Opened
+2022-10-17 18:09:52,127 [main] INFO eCommerce - Popup Closed
+2022-10-17 18:09:54,197 [main] INFO eCommerce - Popup close Passed
+2022-10-17 18:10:48,735 [main] INFO eCommerce - URL Opened
+2022-10-17 18:10:52,395 [main] INFO eCommerce - Popup Closed
+2022-10-17 18:10:54,424 [main] INFO eCommerce - Popup close Passed
+2022-10-17 18:15:02,206 [main] INFO eCommerce - URL Opened
+2022-10-17 18:16:42,267 [main] INFO eCommerce - URL Opened
+2022-10-17 18:30:55,782 [main] INFO eCommerce - URL Opened
+2022-10-17 18:31:49,157 [main] INFO eCommerce - URL Opened
+2022-10-17 18:33:26,875 [main] INFO eCommerce - URL Opened
+2022-10-17 18:43:45,408 [main] INFO eCommerce - URL Opened
+2022-10-17 18:43:51,093 [main] INFO eCommerce - Popup close Passed
+2022-10-17 18:45:33,423 [main] INFO eCommerce - URL Opened
+2022-10-17 18:45:38,965 [main] INFO eCommerce - Popup close Passed
+2022-10-17 19:17:30,493 [main] INFO eCommerce - URL Opened
+2022-10-17 19:18:01,005 [main] INFO eCommerce - Title is same
+2022-10-17 19:23:52,271 [main] INFO eCommerce - URL Opened
+2022-10-17 19:24:23,160 [main] INFO eCommerce - Popup not found
+2022-10-17 19:24:23,185 [main] INFO eCommerce - Title is same
+2022-10-17 22:51:43,854 [main] INFO eCommerce - URL Opened
+2022-10-17 22:52:05,042 [main] INFO eCommerce - Popup Closed
+2022-10-17 22:52:05,058 [main] INFO eCommerce - Title is same
+2022-10-17 22:53:28,499 [main] INFO eCommerce - URL Opened
+2022-10-17 22:53:59,418 [main] INFO eCommerce - Popup not found
+2022-10-17 22:53:59,433 [main] INFO eCommerce - Title is same
+2022-10-17 23:01:47,095 [main] INFO eCommerce - URL Opened
+2022-10-17 23:01:47,958 [main] INFO eCommerce - Hovered on WhyKotakLife
+2022-10-17 23:01:47,994 [main] INFO eCommerce - Hovered on AboutUs
+2022-10-17 23:02:18,304 [main] INFO eCommerce - URL Opened
+2022-10-17 23:02:49,242 [main] INFO eCommerce - Popup not found
+2022-10-17 23:02:49,255 [main] INFO eCommerce - Title is same
+2022-10-17 23:02:54,377 [main] INFO eCommerce - URL Opened
+2022-10-17 23:02:55,191 [main] INFO eCommerce - Hovered on WhyKotakLife
+2022-10-17 23:02:55,239 [main] INFO eCommerce - Hovered on AboutUs
+2022-10-17 23:03:53,399 [main] INFO eCommerce - URL Opened
+2022-10-17 23:04:24,176 [main] INFO eCommerce - Popup not found
+2022-10-17 23:04:24,191 [main] INFO eCommerce - Title is same
+2022-10-17 23:04:28,007 [main] INFO eCommerce - URL Opened
+2022-10-17 23:04:28,912 [main] INFO eCommerce - Hovered on WhyKotakLife
+2022-10-17 23:04:28,956 [main] INFO eCommerce - Clicked on AboutUs
+2022-10-17 23:07:03,907 [main] INFO eCommerce - URL Opened
+2022-10-17 23:07:34,797 [main] INFO eCommerce - Popup not found
+2022-10-17 23:07:34,814 [main] INFO eCommerce - Title is same
+2022-10-17 23:07:38,610 [main] INFO eCommerce - URL Opened
+2022-10-17 23:07:39,574 [main] INFO eCommerce - Hovered on WhyKotakLife
+2022-10-17 23:07:39,622 [main] INFO eCommerce - Clicked on AboutUs
+2022-10-17 23:23:22,055 [main] INFO eCommerce - URL Opened
+2022-10-17 23:23:53,044 [main] INFO eCommerce - Popup not found
+2022-10-17 23:23:53,076 [main] INFO eCommerce - Title is same
+2022-10-17 23:23:57,816 [main] INFO eCommerce - URL Opened
+2022-10-17 23:23:58,790 [main] INFO eCommerce - Hovered on WhyKotakLife
+2022-10-17 23:23:58,842 [main] INFO eCommerce - Clicked on AboutUs
+2022-10-18 12:00:17,564 [main] INFO eCommerce - URL Opened
+2022-10-18 12:00:48,574 [main] INFO eCommerce - Popup not found
+2022-10-18 12:00:48,606 [main] INFO eCommerce - Title is same
+2022-10-18 12:00:53,650 [main] INFO eCommerce - URL Opened
+2022-10-18 12:00:54,611 [main] INFO eCommerce - Hovered on WhyKotakLife
+2022-10-18 12:00:54,676 [main] INFO eCommerce - Clicked on AboutUs
+2022-10-18 12:07:13,915 [main] INFO eCommerce - URL Opened
+2022-10-18 12:07:44,853 [main] INFO eCommerce - Popup not found
+2022-10-18 12:07:44,888 [main] INFO eCommerce - Title is same
+2022-10-18 12:07:57,476 [main] INFO eCommerce - URL Opened
+2022-10-18 12:07:58,526 [main] INFO eCommerce - Hovered on WhyKotakLife
+2022-10-18 12:07:58,577 [main] INFO eCommerce - Clicked on AboutUs
+2022-11-16 12:42:54,927 [main] INFO eCommerce - URL Opened
+2022-11-16 12:43:25,599 [main] INFO eCommerce - Popup not found
+2022-11-16 12:43:25,628 [main] INFO eCommerce - Title is same
+2022-11-16 12:43:26,005 [main] INFO eCommerce - Browser Closed
+2022-11-16 12:43:31,197 [main] INFO eCommerce - URL Opened
+2022-11-16 12:43:31,971 [main] INFO eCommerce - Hovered on WhyKotakLife
+2022-11-16 12:43:32,022 [main] INFO eCommerce - Clicked on AboutUs
+2022-11-16 12:43:34,851 [main] INFO eCommerce - Printed Directors name
+2022-11-16 12:43:35,077 [main] INFO eCommerce - Browser Closed
+2022-12-07 18:30:43,783 [main] INFO eCommerce - URL Opened
+2022-12-07 18:31:15,492 [main] INFO eCommerce - Popup not found
+2022-12-07 18:31:15,516 [main] INFO eCommerce - Title is same
+2022-12-07 18:31:16,105 [main] INFO eCommerce - Browser Closed
+2022-12-07 18:31:20,674 [main] INFO eCommerce - URL Opened
+2022-12-07 18:31:22,031 [main] INFO eCommerce - Hovered on WhyKotakLife
+2022-12-07 18:31:22,076 [main] INFO eCommerce - Clicked on AboutUs
+2022-12-07 18:31:25,566 [main] INFO eCommerce - Printed Directors name
+2022-12-07 18:31:25,864 [main] INFO eCommerce - Browser Closed
+2022-12-10 19:19:49,728 [main] INFO eCommerce - URL Opened
+2022-12-10 19:20:21,304 [main] INFO eCommerce - Popup not found
+2022-12-10 19:20:21,330 [main] INFO eCommerce - Title is same
+2022-12-10 19:20:21,873 [main] INFO eCommerce - Browser Closed
+2022-12-10 19:20:26,884 [main] INFO eCommerce - URL Opened
+2022-12-10 19:20:28,082 [main] INFO eCommerce - Hovered on WhyKotakLife
+2022-12-10 19:20:28,161 [main] INFO eCommerce - Clicked on AboutUs
+2022-12-10 19:20:31,420 [main] INFO eCommerce - Printed Directors name
+2022-12-10 19:20:31,796 [main] INFO eCommerce - Browser Closed
